@@ -1,0 +1,37 @@
+body
+{
+  font-family: 'Acme', sans-serif;
+  background-image: linear-gradient(to right top, #e6dc15, #ecc25e, #ffab02, #ff8400, #dd3d0d);
+}
+
+.header_div
+  {
+  background: rgb(255, 221, 0);
+  color: #000000; 
+  }
+
+  .header_div p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(253, 2, 2);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  .copy_right_footer {
+   position: fixed;
+   color: #000000;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #ffd000;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(255, 102, 0);
+}
